@@ -1,0 +1,15 @@
+﻿  Main.cpp
+  SoundConverter.cpp
+Main.obj : error LNK2001: unresolved external symbol __imp_PlaySoundW
+SoundConverter.obj : error LNK2001: unresolved external symbol MFShutdown
+SoundConverter.obj : error LNK2001: unresolved external symbol MF_MT_SUBTYPE
+SoundConverter.obj : error LNK2001: unresolved external symbol MFCreateWaveFormatExFromMFMediaType
+SoundConverter.obj : error LNK2001: unresolved external symbol MFCreateMediaType
+SoundConverter.obj : error LNK2001: unresolved external symbol MFMediaType_Audio
+SoundConverter.obj : error LNK2001: unresolved external symbol MFCreateSourceReaderFromURL
+SoundConverter.obj : error LNK2001: unresolved external symbol MF_MT_MAJOR_TYPE
+SoundConverter.obj : error LNK2001: unresolved external symbol MF_MT_AUDIO_AVG_BYTES_PER_SECOND
+SoundConverter.obj : error LNK2001: unresolved external symbol MFStartup
+SoundConverter.obj : error LNK2001: unresolved external symbol MFAudioFormat_PCM
+SoundConverter.obj : error LNK2001: unresolved external symbol MF_MT_AUDIO_BLOCK_ALIGNMENT
+C:\Users\User\Desktop\SoundImporter\SoundImporter\x64\Release\SoundImporter.exe : fatal error LNK1120: 12 unresolved externals

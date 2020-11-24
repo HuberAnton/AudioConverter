@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\ComplexGame\LibraryProject\SoundImporter\x64\Debug\SoundImporter.pdb
+C:\Users\User\Desktop\ComplexGame\LibraryProject\SoundImporter\SoundImporter\x64\Debug\SoundImporter.pdb
+C:\Users\User\Desktop\Repos\AudioConverter\LibraryProject\SoundImporter\x64\Debug\SoundImporter.pdb
+C:\Users\User\Desktop\Repos\AudioConverter\LibraryProject\SoundImporter\SoundImporter\x64\Debug\SoundImporter.pdb
